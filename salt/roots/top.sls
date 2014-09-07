@@ -5,4 +5,5 @@ base:
     - gui
     - dev-cpp
     - dev-python
+    - dev-microchip
 
