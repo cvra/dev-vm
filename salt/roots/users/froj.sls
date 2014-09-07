@@ -16,7 +16,7 @@ https://github.com/froj/dotvim:
     - user: froj
     - mode: 644
 
-https://github.com/gmarik/Vundle.vim
+https://github.com/gmarik/Vundle.vim:
   git.latest:
     - target: /home/froj/.vim/bundle
 
