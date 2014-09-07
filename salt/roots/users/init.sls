@@ -6,3 +6,4 @@
 include:
   - .antoine
   - .pierluca
+  - .froj
