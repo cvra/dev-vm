@@ -5,5 +5,5 @@ base:
     - gui
     - dev-cpp
     - dev-python
+    - gazebo
     - dev-microchip
-
