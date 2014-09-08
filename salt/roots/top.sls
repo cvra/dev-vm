@@ -6,3 +6,4 @@ base:
     - dev-cpp
     - dev-python
     - gazebo
+    - dev-microchip
