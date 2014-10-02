@@ -3,6 +3,9 @@
 build-essential:
   pkg.installed
 
+clang:
+  pkg.installed
+
 cmake:
   pkg.installed
 
