@@ -6,3 +6,5 @@ base:
     - dev-cpp
     - dev-python
     - gazebo
+    - ompl
+    - boost
