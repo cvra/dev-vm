@@ -5,5 +5,4 @@ base:
     - gui
     - dev-cpp
     - dev-python
-    - gazebo
     - ros
