@@ -1,0 +1,6 @@
+#!/bin/bash
+# Starts roscore. This is called by upstart.
+# Anything sent on stdout will end in the logs
+source /opt/ros/indigo/setup.bash
+roscore
+

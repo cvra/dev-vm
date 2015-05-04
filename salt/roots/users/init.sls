@@ -8,3 +8,4 @@ include:
   - .pierluca
   - .patrick
   - .froj
+  - .cvra
